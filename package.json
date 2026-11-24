@@ -1,0 +1,22 @@
+{
+  "name": "herdr-ado",
+  "version": "0.3.0",
+  "description": "Azure DevOps Ops for Herdr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astoltzfus/herdr-ado.git"
+  },
+  "homepage": "https://github.com/astoltzfus/herdr-ado#readme",
+  "bugs": {
+    "url": "https://github.com/astoltzfus/herdr-ado/issues"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "type": "module"
+}
